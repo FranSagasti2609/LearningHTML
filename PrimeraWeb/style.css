@@ -7,7 +7,13 @@ body {
     padding: 0;
 }
 
-h1 {
+header {
+    color: #0066cc;
+    text-align: center;
+    margin-top: 25px;
+}
+
+footer {
     color: #0066cc;
     text-align: center;
     margin-top: 20px;
